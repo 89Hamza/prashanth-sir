@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: steelblue;
+      background-color: steelpink;
       position: absolute;
       width: 100%;
       height: 100%;
